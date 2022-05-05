@@ -1,1 +1,2 @@
 select * from salesview
+where danny = "sell out"
