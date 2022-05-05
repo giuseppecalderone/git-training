@@ -2,3 +2,4 @@ select * from salesview
 where danny = "sell out"
 and mike = "sell out"
 and ian = "great"
+and zoe = "the worse!"
